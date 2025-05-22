@@ -4,7 +4,7 @@ A beautiful, fully functional web-based Tic Tac Toe game built with HTML, CSS, a
 
 ## 🌐 Live Demo
 
-🎮 **[Play the game live on GitHub Pages!](https://saurabhdingwani.github.io/tic-tac-toe-game/)**
+🎮 **[Play the game live on GitHub Pages!](https://sdingwan.github.io/tic-tac-toe-game/)**
 
 The game is deployed and accessible online - no installation required!
 
