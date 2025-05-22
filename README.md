@@ -2,6 +2,12 @@
 
 A beautiful, fully functional web-based Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
+## 🌐 Live Demo
+
+🎮 **[Play the game live on GitHub Pages!](https://saurabhdingwani.github.io/tic-tac-toe-game/)**
+
+The game is deployed and accessible online - no installation required!
+
 ## ✨ Features
 
 - **Modern UI Design**: Beautiful gradient backgrounds, smooth animations, and responsive design
@@ -98,6 +104,26 @@ tic-tac-toe-game/
 ├── script.js       # Game logic and interactivity
 └── README.md       # This file
 ```
+
+## 🚀 Deployment
+
+This game is deployed on **GitHub Pages** for easy access and sharing.
+
+### Live URL
+- **Production**: https://saurabhdingwani.github.io/tic-tac-toe-game/
+
+### Deployment Setup
+The deployment is automatically handled by GitHub Pages:
+1. Code is pushed to the `main` branch
+2. GitHub Pages serves the static files directly
+3. The site is available instantly at the GitHub Pages URL
+4. Any updates to `main` branch automatically update the live site
+
+### Custom Domain (Optional)
+You can also set up a custom domain by:
+1. Adding a `CNAME` file with your domain
+2. Configuring DNS settings
+3. Enabling HTTPS in repository settings
 
 ## 🎵 Sound Effects
 
