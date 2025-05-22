@@ -6,7 +6,7 @@ A beautiful, fully functional web-based Tic Tac Toe game built with HTML, CSS, a
 
 🎮 **[Play the game live on GitHub Pages!](https://sdingwan.github.io/tic-tac-toe-game/)**
 
-The game is deployed and accessible online - no installation required!
+The game is deployed and accessible online.
 
 ## ✨ Features
 
@@ -110,7 +110,7 @@ tic-tac-toe-game/
 This game is deployed on **GitHub Pages** for easy access and sharing.
 
 ### Live URL
-- **Production**: https://saurabhdingwani.github.io/tic-tac-toe-game/
+- **Production**: https://sdingwan.github.io/tic-tac-toe-game/
 
 ### Deployment Setup
 The deployment is automatically handled by GitHub Pages:
